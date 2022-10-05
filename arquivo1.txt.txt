@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 alteração 2 
 alteração 2_
 
+=======
+Arquivo1
+
+alteração 2
+
+alteração 3
+>>>>>>> ee781865e4e86860b712572463d1a05d59b0f2d4
